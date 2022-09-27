@@ -1,0 +1,6 @@
+name: Linter
+on: [push]
+jobs:
+  runs-on: ubuntu-latest
+  steps:
+    
